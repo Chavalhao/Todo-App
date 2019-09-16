@@ -1,2 +1,2 @@
 # Todo-App
-Projeto de aprendizagem do Curso React + Redux
+Projeto para aprendizagem do Curso React + Redux
