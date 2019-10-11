@@ -3,7 +3,7 @@
 
 ## Tecnologias
 
-**Front com ReactJS**
+- **Front com ReactJS**
     - **axios**
     - **bootstrap**
     - **font-awesome**
