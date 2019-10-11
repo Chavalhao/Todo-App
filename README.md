@@ -1,7 +1,7 @@
 # TodoApp
-##Projeto para aprendizagem do Curso React + Redux
+## Projeto para aprendizagem do Curso React + Redux
 
-##Tecnologias
+## Tecnologias
 
 **Front com ReactJS**
     - **axios**
